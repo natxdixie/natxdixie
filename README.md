@@ -44,9 +44,3 @@
 ![github card](https://github-readme-stats.vercel.app/api?username=natxdixie&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natx-C&theme=monokai)
-
-### Repo Stats 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=乂Nat&repo=bitch-bot&theme=dark)
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=natxdixie&repo=natxdixie.github.io&theme=dark)
